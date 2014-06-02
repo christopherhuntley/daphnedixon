@@ -8,3 +8,6 @@ sites/*/private
 # Ignore OS and App-secific paths
 .DS_Store
 .zedstate
+.project
+.buildpath
+.settings/*
